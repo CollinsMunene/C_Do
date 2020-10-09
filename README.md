@@ -1,4 +1,4 @@
-# k_trial
+# C-Do
 
 ## Project setup
 ```
